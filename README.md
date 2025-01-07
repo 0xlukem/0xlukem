@@ -13,5 +13,3 @@
 <p align="left">
 <a href="https://twitter.com/lukee_crypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukee_crypto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucasmalizia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmalizia" height="30" width="40" /></a>
-<a href="https://www.behance.net/lucasmalizia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucasmalizia" height="30" width="40" /></a>
-</p>
